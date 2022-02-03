@@ -33,6 +33,7 @@
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
+    "commitizen": "^4.2.4",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.3",
     "reflect-metadata": "^0.1.13",
