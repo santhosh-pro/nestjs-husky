@@ -27,7 +27,7 @@
   },
   "lint-staged": {
     "*.{ts,js}": "eslint --fix",
-    "*": "prettier -w"
+    "*": "prettier -"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.0",
